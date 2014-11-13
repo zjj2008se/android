@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://android.googlesource.com"
+           fetch="http://codeaurora.org"
            review="android-review.googlesource.com" />
 
   <remote  name="github"
